@@ -1,34 +1,50 @@
-<h1 align="center"> Hi 👋, I'm Faikar Moch Tajudin </h1> 
-<img src="https://komarev.com/ghpvc/?username=fr0faive&label=Profile%20views&color=0e75b6&style=flat" alt="fr0faive" />
+<!-- Profile README – fr0faive -->
 
-- 🌱 I’m Fullstack Developer
-- 💬 Ask me about **Anything**
-- 😄 Pronouns: **He/Him**
-- 📫 How to reach me, you can connect on social media below
-<h2>Connect with me:</h2>
+<div align="center">
+
+# Hi, I’m **Faikar Moch Tajudin** 👋
+
+**Full-stack Developer**  
+Saya percaya setiap kode punya cerita. Sebagai Full Stack Developer, saya menulis cerita itu agar pengguna merasakan manfaatnya. Fokus pada arsitektur sederhana, performa tinggi, dan DX yang menyenangkan.  
+Suka **Server Actions, ISR, edge runtimes**, dan **database non/relasional**.
+
+[Email](mailto:faikarmocht@gmail.com) ·
+[Instagram](https://instagram.com/faikarmocht) ·
+[Facebook](https://fb.com/faikarmocht) ·
+[Website](https://resume.faikarmocht.web.id)
+</div>
+
+---
+
+### Toolbox
 <p align="left">
-<a href="https://fb.com/faikarmocht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faikarmocht" height="30" width="40" /></a>
-<a href="https://instagram.com/faikarmocht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fai.krr" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="36" height="36" />
 </p>
 
-<h2>Languages and Tools</h2>
-<p align="left" style="display: flex; background-color: white">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-</p>
+---
+
+### Tentang saya
+- 🌱 Full-stack developer yang senang membangun produk end-to-end.
+- 💬 Terbuka untuk berdiskusi apa saja seputar web dev.
+- 😄 Pronouns: **He/Him**
+- 📫 Hubungi lewat **email** atau **sosial** di atas.
+
+<!-- Optional extras -->
 <!--
-**Fr0faive/Fr0faive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Statistik & lainnya</summary>
 
-Here are some ideas to get you started:
+  - 🔭 Sedang mengerjakan: …
+  - 🧪 Bereksperimen dengan: …
+  - ✅ Tujuan 2025: …
 
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
+</details>
 -->
+
