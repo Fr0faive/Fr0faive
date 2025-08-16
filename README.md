@@ -1,14 +1,14 @@
 <h1 align="center"> Hi 👋, I'm Faikar Moch Tajudin </h1> 
 <img src="https://komarev.com/ghpvc/?username=fr0faive&label=Profile%20views&color=0e75b6&style=flat" alt="fr0faive" />
 
-- 🌱 I’m currently learning at UIN Sunan Gunung Djati Bandung
+- 🌱 I’m Fullstack Developer
 - 💬 Ask me about **Anything**
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me, you can connect on social media below
 <h2>Connect with me:</h2>
 <p align="left">
 <a href="https://fb.com/faikarmocht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faikarmocht" height="30" width="40" /></a>
-<a href="https://instagram.com/faikarmocht_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fai.krr" height="30" width="40" /></a>
+<a href="https://instagram.com/faikarmocht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fai.krr" height="30" width="40" /></a>
 </p>
 
 <h2>Languages and Tools</h2>
