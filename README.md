@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 Sedang Dikerjakan
-- 🛠️ Membangun **Personal Blog** untuk mendokumentasikan perjalanan menuju 2026.
+- 🛠️ Membangun **Personal Blog** untuk mendokumentasikan perjalanan di 2026.
 - 🔗 Mengeksplor **Go Fiber** lebih jauh.
 - 🧪 Eksperimen dengan **Web3 & Blockchain** (NFT Gallery & Doc Signing).
 
