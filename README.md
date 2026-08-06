@@ -1,47 +1,58 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Faikar%20Moch.%20Tajudin;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
-# Hi, I’m **Faikar Moch Tajudin** 👋
-### **Full-stack Developer | Crafting Scalable Web Experiences**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faikarmocht@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faikarmocht)
-[![Website](https://img.shields.io/badge/Portfolio-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)](https://profile.faikarmocht.dev)
-
----
-
-"Saya percaya setiap kode punya cerita. Fokus pada arsitektur sederhana, performa tinggi, dan Developer Experience (DX) yang menyenangkan."
-
-**Suka mengulik:** `Server Actions` • `ISR` • `Edge Runtimes` • `Web3/Blockchain` • `Go (Fiber)`
-
-</div>
-
----
-
-### 🛠️ Toolbox
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square) |
-| **Database/CMS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PayloadCMS](https://img.shields.io/badge/PayloadCMS-000000?style=flat-square&logo=payloadcms&logoColor=white) |
-
----
-
-### 🚀 Sedang Dikerjakan
-- 🛠️ Membangun **Personal Blog** untuk mendokumentasikan perjalanan di 2026.
-- 🔗 Mengeksplor **Go Fiber** lebih jauh.
-- 🧪 Eksperimen dengan **Web3 & Blockchain** (NFT Gallery & Doc Signing).
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr0faive&show_icons=true&theme=tokyonight" alt="Faikar's GitHub Stats" />
+  <img src="https://avatars.githubusercontent.com/u/105912788?u=8b619827c3b3fd9c863923b8bdcb212e593fb4c8&v=4" width="150" style="border-radius: 50%;" alt="Faikar Moch. Tajudin" />
 </p>
 
+## 👨‍💻 About Me
+
+Who want to be Web Developer and Mobile Developer
+
+- 📍 Based in **Bandung, Indonesia**
+- 🌐 Check out my [website](https://profile.faikarmocht.dev)
+- 👥 **6** followers · **1** following
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=fr0faive&theme=aurora" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/languages?username=fr0faive&theme=aurora" alt="Top Languages" />
+</p>
+
+## 🚀 Featured Projects
+
+### [nextdash-template-v1](https://github.com/Fr0faive/nextdash-template-v1) `TypeScript`
+No description provided
+⭐ 1 | 🍴 0
+
+
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=fr0faive&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=fr0faive&theme=aurora" alt="fr0faive contribution activity" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=fr0faive&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=fr0faive&theme=aurora" alt="fr0faive highlights" /></picture>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=fr0faive&theme=aurora&website=https%3A%2F%2Fprofile.faikarmocht.dev&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=fr0faive&theme=aurora&website=https%3A%2F%2Fprofile.faikarmocht.dev" alt="fr0faive social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fr0faive) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://profile.faikarmocht.dev)
+
 ---
 
-### Tentang saya
-- 🌱 Full-stack developer yang senang membangun produk dari nol hingga deploy.
-- 💬 Mari berdiskusi tentang Web Architecture, DX, atau tech stack terbaru.
-- 😄 Pronouns: **He/Him**
-- 📫 Hubungi lewat kontak di atas untuk kolaborasi!
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
