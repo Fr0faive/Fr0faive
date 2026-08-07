@@ -1,47 +1,102 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=FAIKAR%20MOCH%20TAJUDIN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Crafting%20Scalable%20Web%20Experiences&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-# Hi, I’m **Faikar Moch Tajudin** 👋
-### **Full-stack Developer | Crafting Scalable Web Experiences**
+<a href="https://profile.faikarmocht.dev">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Server+Actions+%26+Edge+Runtimes;Exploring+Go+Fiber+%26+Web3;Obsessed+with+clean+DX;Currently+shipping+something+new...&font=Fira+Code&center=true&width=560&height=45&color=8B8BFF&vCenter=true&size=18&pause=1200" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faikarmocht@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faikarmocht)
-[![Website](https://img.shields.io/badge/Portfolio-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)](https://profile.faikarmocht.dev)
-
----
-
-"Saya percaya setiap kode punya cerita. Fokus pada arsitektur sederhana, performa tinggi, dan Developer Experience (DX) yang menyenangkan."
-
-**Suka mengulik:** `Server Actions` • `ISR` • `Edge Runtimes` • `Web3/Blockchain` • `Go (Fiber)`
+[![Email](https://img.shields.io/badge/-Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:faikarmocht@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-0F0F0F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/faikarmocht)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0F0F0F?style=for-the-badge&logo=vercel&logoColor=white)](https://profile.faikarmocht.dev)
 
 </div>
 
----
+<br/>
 
-### 🛠️ Toolbox
+> *"I believe every line of code tells a story. I focus on simple architecture, high performance, and a Developer Experience (DX) that people actually enjoy."*
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square) |
-| **Database/CMS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PayloadCMS](https://img.shields.io/badge/PayloadCMS-000000?style=flat-square&logo=payloadcms&logoColor=white) |
+**✦ Currently exploring:** `Server Actions` · `ISR` · `Edge Runtimes` · `Web3 / Blockchain` · `Go`
 
----
+<br/>
 
-### 🚀 Sedang Dikerjakan
-- 🛠️ Membangun **Personal Blog** untuk mendokumentasikan perjalanan di 2026.
-- 🔗 Mengeksplor **Go Fiber** lebih jauh.
-- 🧪 Eksperimen dengan **Web3 & Blockchain** (NFT Gallery & Doc Signing).
+<div align="center">
+  
+## 🛠️ Toolbox
+ 
+</div>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+  
+**Languages**
+ 
+<img src="https://skillicons.dev/icons?i=js,ts,php" />
+
+**Frontend**
+ 
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,tailwind" />
+</td>
+<td valign="top" width="50%">
+  
+**Backend**
+ 
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go" />
+ 
+**Database / CMS**
+ 
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+ 
+</td>
+</tr>
+<tr>
+<td valign="top" width="100%" colSpan="2">
+
+<div align="center">
+  
+**DevOps**
+ 
+</div>
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,aws,googlecloud" />
+ 
+</div>
+
+</td>
+</tr>
+</table>
+<br/>
+
+### 🚀 Currently Working On
+
+- 🛠️&nbsp; Building a **Personal Blog** to document the 2026 journey
+- 🐳&nbsp; Containerizing side projects with **Docker** for cleaner local-to-prod workflows
+- 🔗&nbsp; Diving deeper into **Go**
+- 🧪&nbsp; Experimenting with **Web3 & Blockchain** — NFT Gallery & Doc Signing
+
+<br/>
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr0faive&show_icons=true&theme=tokyonight" alt="Faikar's GitHub Stats" />
-</p>
 
----
+<div align="center">
 
-### Tentang saya
-- 🌱 Full-stack developer yang senang membangun produk dari nol hingga deploy.
-- 💬 Mari berdiskusi tentang Web Architecture, DX, atau tech stack terbaru.
-- 😄 Pronouns: **He/Him**
-- 📫 Hubungi lewat kontak di atas untuk kolaborasi!
+<img src="https://github-stats-extended.vercel.app/api?username=fr0faive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B8BFF&icon_color=8B8BFF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fr0faive&theme=tokyonight&hide_border=true&background=0D1117&ring=8B8BFF&fire=8B8BFF" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fr0faive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B8BFF&line=8B8BFF&point=ffffff" width="90%"/>
+
+</div>
+
+<br/>
+
+### 👤 About Me
+
+- 🌱&nbsp; Full-stack developer who loves building products from zero to production
+- 💬&nbsp; Always up for a chat about Web Architecture, DX, or the latest tech stacks
+- 😄&nbsp; Pronouns: **He/Him**
+- 📫&nbsp; Reach out through the links above for collaborations!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
