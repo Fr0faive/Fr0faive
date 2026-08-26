@@ -15,7 +15,7 @@
 
 > *"I believe every line of code tells a story. I focus on simple architecture, high performance, and a Developer Experience (DX) that people actually enjoy."*
 
-**✦ Currently exploring:** `Server Actions` · `ISR` · `Edge Runtimes` · `Web3 / Blockchain` · `Go`
+**✦ Currently exploring:** `Web3 / Blockchain` · `Go`
 
 <br/>
 
